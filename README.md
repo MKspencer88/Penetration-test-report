@@ -126,5 +126,5 @@ Below is a high-level summary of all **12 critical vulnerabilities** identified 
 - Strengthened exploitation and reporting skills
 
 # Full Report
-[**View the compelete penetration test report**](artifacts/https://github.com/MKspencer88/Penetration-test-report/blob/main/artifacts/MK%20Spencer%20Rekall%20Penetration%20Test%20Report%20Project%202.pdf)
+[**View the compelete penetration test report**](https://github.com/MKspencer88/Penetration-test-report/blob/main/artifacts/MK%20Spencer%20Rekall%20Penetration%20Test%20Report%20Project%202.pdf)
 
